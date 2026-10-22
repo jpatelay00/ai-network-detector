@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# (Optional) You can choose to ignore data and models if they are too large, 
+# but for a portfolio project, our 10,000 row CSV and small joblib model are fine to include.
